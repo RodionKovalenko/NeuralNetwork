@@ -1,0 +1,390 @@
+
+ Data set number 1
+Accuracy Train : 0.08064516129032258
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 8.449306202640713
+ Mean absolute error (test phase): 11.743975354563025
+Mean price Train: 9.075645161290323
+Mean price Test: 11.822666666666663
+ number of elements in train phase: 62
+ number of elements in test phase: 30
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 2
+Accuracy Train : 0.8632478632478633
+Accuracy Test : 0.8793103448275862
+ Mean absolute error (train phase): 1.6841344886997067
+ Mean absolute error (test phase): 1.7647837160964952
+Mean price Train: 7.609059829059827
+Mean price Test: 8.98362068965517
+ number of elements in train phase: 117
+ number of elements in test phase: 58
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 3
+Accuracy Train : 0.75
+Accuracy Test : 0.15
+ Mean absolute error (train phase): 0.13746428571428596
+ Mean absolute error (test phase): 0.35628571428571304
+Mean price Train: 2.392
+Mean price Test: 2.0635000000000003
+ number of elements in train phase: 40
+ number of elements in test phase: 20
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 4
+Accuracy Train : 0.7291666666666666
+Accuracy Test : 0.2608695652173913
+ Mean absolute error (train phase): 0.5431194444444446
+ Mean absolute error (test phase): 0.8215602484472063
+Mean price Train: 6.3358333333333325
+Mean price Test: 7.071739130434782
+ number of elements in train phase: 48
+ number of elements in test phase: 23
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 5
+Accuracy Train : 0.7037037037037037
+Accuracy Test : 0.23076923076923078
+ Mean absolute error (train phase): 0.4450171179582943
+ Mean absolute error (test phase): 0.806541693600522
+Mean price Train: 5.8240740740740735
+Mean price Test: 6.568461538461538
+ number of elements in train phase: 27
+ number of elements in test phase: 13
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 6
+Accuracy Train : 0.717948717948718
+Accuracy Test : 0.15789473684210525
+ Mean absolute error (train phase): 0.2572629222629232
+ Mean absolute error (test phase): 0.5100083542188867
+Mean price Train: 4.239230769230769
+Mean price Test: 4.703157894736843
+ number of elements in train phase: 39
+ number of elements in test phase: 19
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 7
+Accuracy Train : 0.45901639344262296
+Accuracy Test : 0.32967032967032966
+ Mean absolute error (train phase): 3.6980843232009772
+ Mean absolute error (test phase): 4.206098615612471
+Mean price Train: 4.01568060117978
+Mean price Test: 4.311283516568133
+ number of elements in train phase: 183
+ number of elements in test phase: 91
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 8
+Accuracy Train : 0.7142857142857143
+Accuracy Test : 0.6428571428571429
+ Mean absolute error (train phase): 0.12318367346938829
+ Mean absolute error (test phase): 0.1585918367346961
+Mean price Train: 4.231071428571429
+Mean price Test: 4.220000000000001
+ number of elements in train phase: 28
+ number of elements in test phase: 14
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 9
+Accuracy Train : 0.6865671641791045
+Accuracy Test : 0.36363636363636365
+ Mean absolute error (train phase): 0.3668620990790734
+ Mean absolute error (test phase): 0.5562725660863987
+Mean price Train: 6.236119402985075
+Mean price Test: 6.755454545454544
+ number of elements in train phase: 67
+ number of elements in test phase: 33
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 10
+Accuracy Train : 0.7115384615384616
+Accuracy Test : 0.5769230769230769
+ Mean absolute error (train phase): 1.1936698717948748
+ Mean absolute error (test phase): 0.9610576923076958
+Mean price Train: 8.817884615384617
+Mean price Test: 9.02576923076923
+ number of elements in train phase: 52
+ number of elements in test phase: 26
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 11
+Accuracy Train : 0.08163265306122448
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 5.943055653749569
+ Mean absolute error (test phase): 11.597083333333334
+Mean price Train: 6.642448979591837
+Mean price Test: 11.597083333333334
+ number of elements in train phase: 49
+ number of elements in test phase: 24
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 12
+Accuracy Train : 0.7872340425531915
+Accuracy Test : 0.391304347826087
+ Mean absolute error (train phase): 2.0999904421423974
+ Mean absolute error (test phase): 4.331240723402325
+Mean price Train: 6.756382978723405
+Mean price Test: 10.169130434782609
+ number of elements in train phase: 47
+ number of elements in test phase: 23
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 13
+Accuracy Train : 0.7380952380952381
+Accuracy Test : 0.5238095238095238
+ Mean absolute error (train phase): 0.7470050125313279
+ Mean absolute error (test phase): 1.2276629072681697
+Mean price Train: 4.712857142857143
+Mean price Test: 4.701904761904761
+ number of elements in train phase: 42
+ number of elements in test phase: 21
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 14
+Accuracy Train : 0.09090909090909091
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 5.866821241374042
+ Mean absolute error (test phase): 13.025520414643598
+Mean price Train: 6.099696969696969
+Mean price Test: 11.757812499999996
+ number of elements in train phase: 66
+ number of elements in test phase: 32
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 15
+Accuracy Train : 0.48046875
+Accuracy Test : 0.5039370078740157
+ Mean absolute error (train phase): 2.981473211334235
+ Mean absolute error (test phase): 2.454661826304901
+Mean price Train: 4.107774804774611
+Mean price Test: 3.8068314961456706
+ number of elements in train phase: 256
+ number of elements in test phase: 127
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 16
+Accuracy Train : 0.8983050847457628
+Accuracy Test : 0.896551724137931
+ Mean absolute error (train phase): 6.214304632555633
+ Mean absolute error (test phase): 9.218607253521782
+Mean price Train: 7.925254237288135
+Mean price Test: 8.36103448275862
+ number of elements in train phase: 59
+ number of elements in test phase: 29
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 17
+Accuracy Train : 0.4722222222222222
+Accuracy Test : 0.37142857142857144
+ Mean absolute error (train phase): 3.8808095558337876
+ Mean absolute error (test phase): 3.4992857143371423
+Mean price Train: 4.285319444488889
+Mean price Test: 3.4992857143371423
+ number of elements in train phase: 72
+ number of elements in test phase: 35
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 18
+Accuracy Train : 0.41025641025641024
+Accuracy Test : 0.46551724137931033
+ Mean absolute error (train phase): 3.4908508650384937
+ Mean absolute error (test phase): 4.005500000041382
+Mean price Train: 3.6669401709581186
+Mean price Test: 4.005500000041382
+ number of elements in train phase: 117
+ number of elements in test phase: 58
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 19
+Accuracy Train : 0.676056338028169
+Accuracy Test : 0.5714285714285714
+ Mean absolute error (train phase): 1.7099285211776465
+ Mean absolute error (test phase): 1.1277689227062873
+Mean price Train: 15.168591549295776
+Mean price Test: 14.253142857142857
+ number of elements in train phase: 71
+ number of elements in test phase: 35
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 20
+Accuracy Train : 0.018315018315018316
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 4.024266488398939
+ Mean absolute error (test phase): 6.998676470588234
+Mean price Train: 4.1256043956044
+Mean price Test: 6.998676470588234
+ number of elements in train phase: 273
+ number of elements in test phase: 136
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 21
+Accuracy Train : 0.66
+Accuracy Test : 0.72
+ Mean absolute error (train phase): 1.1704457142857139
+ Mean absolute error (test phase): 1.3444942857142876
+Mean price Train: 7.881899999999997
+Mean price Test: 8.6208
+ number of elements in train phase: 100
+ number of elements in test phase: 50
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 22
+Accuracy Train : 0.7307692307692307
+Accuracy Test : 0.46153846153846156
+ Mean absolute error (train phase): 0.8538021978021981
+ Mean absolute error (test phase): 0.9222490842490851
+Mean price Train: 11.093846153846153
+Mean price Test: 10.23846153846154
+ number of elements in train phase: 26
+ number of elements in test phase: 13
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 23
+Accuracy Train : 0.08163265306122448
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 5.943055653749569
+ Mean absolute error (test phase): 11.597083333333334
+Mean price Train: 6.642448979591837
+Mean price Test: 11.597083333333334
+ number of elements in train phase: 49
+ number of elements in test phase: 24
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 24
+Accuracy Train : 0.09090909090909091
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 5.866821241374042
+ Mean absolute error (test phase): 13.025520414643598
+Mean price Train: 6.099696969696969
+Mean price Test: 11.757812499999996
+ number of elements in train phase: 66
+ number of elements in test phase: 32
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 25
+Accuracy Train : 0.16129032258064516
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 7.853136638493147
+ Mean absolute error (test phase): 15.476478410860047
+Mean price Train: 8.80435483870968
+Mean price Test: 14.335161290322581
+ number of elements in train phase: 62
+ number of elements in test phase: 31
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 26
+Accuracy Train : 0.125
+Accuracy Test : 0.027777777777777776
+ Mean absolute error (train phase): 6.249770958586576
+ Mean absolute error (test phase): 13.126095678121708
+Mean price Train: 7.126388888888887
+Mean price Test: 13.131944444444443
+ number of elements in train phase: 72
+ number of elements in test phase: 36
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 27
+Accuracy Train : 0.10638297872340426
+Accuracy Test : 0.021739130434782608
+ Mean absolute error (train phase): 7.17860758641744
+ Mean absolute error (test phase): 14.723220566471104
+Mean price Train: 7.712659574468082
+Mean price Test: 14.723260869565216
+ number of elements in train phase: 94
+ number of elements in test phase: 46
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 28
+Accuracy Train : 0.02666666666666667
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 2.850074419843548
+ Mean absolute error (test phase): 3.6076411832183743
+Mean price Train: 3.230066666666666
+Mean price Test: 3.928243243243242
+ number of elements in train phase: 150
+ number of elements in test phase: 74
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 29
+Accuracy Train : 0.10126582278481013
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 6.747625109558377
+ Mean absolute error (test phase): 12.676410256410257
+Mean price Train: 7.465443037974682
+Mean price Test: 12.676410256410257
+ number of elements in train phase: 79
+ number of elements in test phase: 39
+------------------------------------------------------------------------
+
+*************************************************************************
+
+ Data set number 30
+Accuracy Train : 0.08163265306122448
+Accuracy Test : 0.0
+ Mean absolute error (train phase): 5.943055653749569
+ Mean absolute error (test phase): 11.597083333333334
+Mean price Train: 6.642448979591837
+Mean price Test: 11.597083333333334
+ number of elements in train phase: 49
+ number of elements in test phase: 24
+------------------------------------------------------------------------
+
+*************************************************************************
